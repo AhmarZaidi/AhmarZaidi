@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmar</h1>
-<h3 align="center">A coder from India fixing problems one bug at a time 😄!</h3>
+<h3 align="center">Fixing problems one bug at a time 😄!</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmarzaidi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmarzaidi" /></p>
 
