@@ -94,5 +94,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhmarZaidi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-
 [link1]: https://drive.google.com/file/d/1ntBeCdm0avdQEgV169NTqy8ZDG39yG9Y/view?usp=sharing
