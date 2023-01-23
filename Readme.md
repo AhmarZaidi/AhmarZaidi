@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on **web3 project using ReactJS, NextJS, Solidity and Pinata.** 
 
--   🌱 I’m planning on learning **Web3, Flutter, GO.**
+-   🌱 I’m planning on learning **GO, Web3, Flutter.**
 
 -   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
