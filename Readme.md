@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmarzaidi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmarzaidi" /></p>
 
--   🔭 I’m currently working on **web3 project using ReactJS, NextJS, Solidity and Pinata.** 
+-   🔭 I’m currently working on **web3/AI projects**. 
 
 -   🌱 I’m planning on learning **GO, Web3, Flutter.**
 
@@ -94,4 +94,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhmarZaidi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-[link1]: https://drive.google.com/file/d/1ntBeCdm0avdQEgV169NTqy8ZDG39yG9Y/view?usp=sharing
+[link1]: https://drive.google.com/file/d/1HbK46IQ30giBo9pCRstxJn-2jwT89N1E/view?usp=sharing
