@@ -13,7 +13,7 @@
 
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
 
--   📄 Know about my experiences [here][link1].
+-   📄 Know about my experiences [here](https://drive.google.com/file/d/1_PzyNV3VIh5GAPAjj3r2ptTJwJ4yLFLz/view?usp=sharing).
 
 -   ⚡ Fun fact: **Coders run on coffee ☕!**
 
@@ -76,6 +76,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhmarZaidi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
-[link1]: https://drive.google.com/file/d/1ntBeCdm0avdQEgV169NTqy8ZDG39yG9Y/view?usp=sharing
 
