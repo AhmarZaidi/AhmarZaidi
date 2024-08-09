@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on **web3/AI projects**. 
 
--   🌱 I’m planning on learning **GO, Web3, Flutter.**
+-   🌱 I’m planning on learning **GO, Web3, React Native.**
 
 -   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
